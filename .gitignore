@@ -30,3 +30,8 @@
 
 # Debug files
 *.dSYM/
+
+#CAD files
+*.bak
+*.dwl
+*.dwl2
